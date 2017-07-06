@@ -1,0 +1,7 @@
+{
+  "name": "yaml-stream",
+  "version": "0.1.0",
+  "dependencies": {
+    "js-yaml": "^3.8.4"
+  }
+}
